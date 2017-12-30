@@ -26,9 +26,16 @@ http://localhost:porta/api/pratosnome/{nome}
 http://localhost:porta/api/postrestaurantes
 
 **Adicionar um Prato no sistema ( json )**<br />
-http://localhost:porta/api/postpratos/{id} 
+http://localhost:porta/api/postpratos
 
-Obs: Id do Restaurante do qual o prato pertence
+**Retorna todos os pratos de todos restaurantes**<br />
+http://localhost:porta/api/pratosrestaurantes
+
+**Retornar o nome do restaurante de um determinado prato **<br />
+http://localhost:porta/api/nome/{id}
+
+**Alterar um Restaurante no sistema ( json )**<br />
+http://localhost:porta/api/putrestaurantes/{id}
 
 **Alterar um Restaurante no sistema ( json )**<br />
 http://localhost:porta/api/putrestaurantes/{id}
