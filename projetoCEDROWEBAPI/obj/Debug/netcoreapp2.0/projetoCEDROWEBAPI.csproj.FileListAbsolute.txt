@@ -1,0 +1,11 @@
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\bin\Debug\netcoreapp2.0\projetoCEDROWEBAPI.deps.json
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\bin\Debug\netcoreapp2.0\projetoCEDROWEBAPI.runtimeconfig.json
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\bin\Debug\netcoreapp2.0\projetoCEDROWEBAPI.runtimeconfig.dev.json
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\bin\Debug\netcoreapp2.0\projetoCEDROWEBAPI.dll
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\bin\Debug\netcoreapp2.0\projetoCEDROWEBAPI.pdb
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\obj\Debug\netcoreapp2.0\projetoCEDROWEBAPI.csprojResolveAssemblyReference.cache
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\obj\Debug\netcoreapp2.0\projetoCEDROWEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\obj\Debug\netcoreapp2.0\projetoCEDROWEBAPI.AssemblyInfoInputs.cache
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\obj\Debug\netcoreapp2.0\projetoCEDROWEBAPI.AssemblyInfo.cs
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\obj\Debug\netcoreapp2.0\projetoCEDROWEBAPI.dll
+C:\Users\tyr\Desktop\projetoCEDROWEBAPI\projetoCEDROWEBAPI\obj\Debug\netcoreapp2.0\projetoCEDROWEBAPI.pdb
